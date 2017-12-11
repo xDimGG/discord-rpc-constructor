@@ -1,0 +1,29 @@
+{
+  "name": "discord-rpc-constructor",
+  "version": "1.0.0",
+  "description": "Syntactic sugar for discord-rpc's activity",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lloti/discord-rpc-constructor.git"
+  },
+  "keywords": [
+    "rpc",
+    "discord",
+    "rich",
+    "presence",
+    "discord-rpc",
+    "discord-rich-presence",
+    "rich-presence-client"
+  ],
+  "author": "lloti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lloti/discord-rpc-constructor/issues"
+  },
+  "homepage": "https://github.com/lloti/discord-rpc-constructor#readme",
+  "peerDependencies": {
+    "discord-rpc": "^3.0.0-beta.6"
+  }
+}
