@@ -1,4 +1,4 @@
-const { resolveString } = require('discord.js');
+const resolveString = data => String(Array.isArray(data) ? data.join('\n') : data);
 
 /**
  * An activity constructor
